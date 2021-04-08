@@ -1,0 +1,17 @@
+.btn {
+    padding: 1rem;
+    border-radius: 5px;
+    border: 2px solid #6739b7;
+    padding: 0 10px;
+}
+
+.btn--primary {
+    background-color: #6739b7;
+    color: #fff;
+}
+
+.btn--ternary {
+    background-color: #fff;
+    color: #6739b7;
+}
+}
